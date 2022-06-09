@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "550790404251",
+    "project_id": "fattafatt-flutter",
+    "storage_bucket": "fattafatt-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550790404251:android:57a6e3633cac27bd628e3e",
+        "android_client_info": {
+          "package_name": "com.hybridsol.fattafatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550790404251-na83eurqlv3de2271dpg8jnu8v469sfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYuEBsvTAREQfEmoK1-FsVKJ-_nnpb49E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550790404251-na83eurqlv3de2271dpg8jnu8v469sfs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550790404251-mpn4kbopk1kvdrlrtppeo32ppqushquq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hybridsol.fattafatt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550790404251:android:923340f25a5bb86e628e3e",
+        "android_client_info": {
+          "package_name": "com.hybridsol.fattafattvendors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550790404251-na83eurqlv3de2271dpg8jnu8v469sfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYuEBsvTAREQfEmoK1-FsVKJ-_nnpb49E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550790404251-na83eurqlv3de2271dpg8jnu8v469sfs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550790404251-mpn4kbopk1kvdrlrtppeo32ppqushquq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hybridsol.fattafatt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550790404251:android:f23ccca5d9afa96c628e3e",
+        "android_client_info": {
+          "package_name": "com.hybridsol.hybridrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550790404251-na83eurqlv3de2271dpg8jnu8v469sfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYuEBsvTAREQfEmoK1-FsVKJ-_nnpb49E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550790404251-na83eurqlv3de2271dpg8jnu8v469sfs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550790404251-mpn4kbopk1kvdrlrtppeo32ppqushquq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hybridsol.fattafatt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
